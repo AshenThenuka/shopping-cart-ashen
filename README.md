@@ -20,3 +20,6 @@ An ecommerce javascript app to show the logic for shopping cart.
 - [Fakestore API](https://fakestoreapi.com/)
 - [Bootstrap Icons](https://icons.getbootstrap.com/)
 - [Google Fonts](https://fonts.google.com/)
+
+
+This is an updated version [2024]
